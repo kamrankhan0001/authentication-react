@@ -1,0 +1,26 @@
+.profile-container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    text-align: start;
+  }
+  
+  .profile-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .profile-container p {
+    margin: 10px 0;
+  }
+  
+  .profile-container button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: rgb(250, 75, 65);
+    border: none;
+    color: white;
+    cursor: pointer;
+
+  }
